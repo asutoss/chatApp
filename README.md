@@ -1,6 +1,9 @@
 # ChatApp
 A simple group chat app built using ReactJs, GraphQL and Websockets.
 
+##
+![ChatApp](https://github.com/asutoss/chatApp/blob/master/images/screen.PNG)
+
 ## Todo List
 - Display live list of active members of the group
 - User Authentication for the group chat
